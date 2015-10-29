@@ -1,1 +1,1 @@
-Git is a free soft
+Git is a distrabuted soft
